@@ -1,6 +1,6 @@
+
 ---
-title: "Graph Path"
-date: 2022-02-20
+"Graph Path"
 ---
 
 
@@ -9,7 +9,6 @@ date: 2022-02-20
 
 ### Grap  :
 The graph is composed of the 465 bus stop GPS coordinates of the BAB (Biaritz, Anglet, Bayonne) region in France
-<img src="/graph/graph_transition.png"/>
 
 #### Development
 
